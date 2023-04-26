@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
 
-- 🔭 I’m currently working on [Capstone Project: End-to-End Resume Parsing Using Spacy and Deploy on GCP Deploy](https://github.com/AmirDahya3101/Resume-Parsing-With-Spacy-and-Deplyment-Using-GCP)
+- 🔭 I’m currently working on [Capstone Project: End-to-End Resume Parsing Using Spacy and Deploy on GCP Deploy](https://github.com/AmirDahya3101/Resume-Parsing-With-Spacy-and-Deplyment-On-GCP)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmirDahya3101](https://github.com/AmirDahya3101)
 
